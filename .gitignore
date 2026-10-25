@@ -1,0 +1,12 @@
+# Dati personali: NON pubblicare estratto conto, dataset elaborati e predizioni
+data/*
+!data/.gitkeep
+processed_data/*
+!processed_data/.gitkeep
+Results/*
+!Results/.gitkeep
+*.csv
+
+.ipynb_checkpoints/
+__pycache__/
+.venv/
